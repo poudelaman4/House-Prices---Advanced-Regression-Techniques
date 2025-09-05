@@ -16,13 +16,15 @@ Predict house prices based on various features (location, rooms, area, etc.) usi
    - Linear Regression
    - Random Forest Regressor
    - SVR
-   - Greadient Boosting Regressors
+   - Greadient Boosting Regressor
 4. Evaluation
    - Metrics: Mean Squared Error (MSE), R² Score
 
 ## 📊 Results
 - Linear Regression R² ≈ 0.7–0.8 (depending on preprocessing)
 - Random Forest Regressor R² ≈ 0.8+
+- SVR R ≈ -0.02
+- Greadient Boosting Regressors R² ≈ 0.898
 
 ## 🚀 How to Run
 1. Download the dataset from Kaggle and place it in the project folder
