@@ -15,6 +15,8 @@ Predict house prices based on various features (location, rooms, area, etc.) usi
 3. Model training
    - Linear Regression
    - Random Forest Regressor
+   - SVR
+   - Greadient Boosting Regressors
 4. Evaluation
    - Metrics: Mean Squared Error (MSE), R² Score
 
